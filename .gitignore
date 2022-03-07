@@ -1,0 +1,6 @@
+.parcel-cache
+dist
+elm-stuff
+repl-temp-*
+node_modules
+.DS_Store
